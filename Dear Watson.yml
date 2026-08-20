@@ -1,0 +1,25 @@
+---
+name: 'Dear Watson'
+
+color_01: '#141414'    # Black (Host)
+color_02: '#C83915'    # Red (Syntax string)
+color_03: '#69A018'    # Green (Command)
+color_04: '#D7AA00'    # Yellow (Command second)
+color_05: '#0064AE'    # Blue (Path)
+color_06: '#C8365B'    # Magenta (Syntax var)
+color_07: '#27B3C8'    # Cyan (Prompt)
+color_08: '#C8C8C8'    # White
+
+color_09: '#505050'    # Bright Black
+color_10: '#FF4E26'    # Bright Red (Command error)
+color_11: '#8BCE27'    # Bright Green (Exec)
+color_12: '#FFD600'    # Bright Yellow
+color_13: '#0089FF'    # Bright Blue (Folder)
+color_14: '#FF3B74'    # Bright Magenta
+color_15: '#2FD3EC'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#141414'  # Background
+foreground: '#C8C8C8'  # Foreground (Text)
+
+cursor: '#F2F2F2'      # Cursor
