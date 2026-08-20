@@ -2,7 +2,7 @@
 
 Modified version of `Elementary` from [Gogh](https://gogh-co.github.io/Gogh/#Elementary).
 
-Attached is a itermcolors file to add the color preset to [iTerm](https://iterm2.com/).
+See [INSTALL_GUIDE.md](INSTALL_GUIDE.md) to install the colour scheme.
 
 The actual colour values are:
 
