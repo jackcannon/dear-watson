@@ -1,0 +1,23 @@
+{
+    "name": "Dear Watson",
+    "cursorColor": "#F2F2F2",
+    "selectionBackground": "#C1DEFF",
+    "background": "#141414",
+    "foreground": "#C8C8C8",
+    "black": "#141414",
+    "red": "#C83915",
+    "green": "#69A018",
+    "yellow": "#D7AA00",
+    "blue": "#0064AE",
+    "purple": "#C8365B",
+    "cyan": "#27B3C8",
+    "white": "#C8C8C8",
+    "brightBlack": "#505050",
+    "brightRed": "#FF4E26",
+    "brightGreen": "#8BCE27",
+    "brightYellow": "#FFD600",
+    "brightBlue": "#0089FF",
+    "brightPurple": "#FF3B74",
+    "brightCyan": "#2FD3EC",
+    "brightWhite": "#FFFFFF"
+}
