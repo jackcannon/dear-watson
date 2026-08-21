@@ -50,11 +50,11 @@ grey3="${fg_bright_white}${dim}"     # dim + bright white
 grey4="$fg_white"                    # white
 grey5="$fg_bright_white"             # bright white
 
-names=(Black Red Green Yellow Blue Magenta Cyan White)
-fg_normal=("$fg_black" "$fg_red" "$fg_green" "$fg_yellow" "$fg_blue" "$fg_magenta" "$fg_cyan" "$fg_white")
-bg_normal=("$bg_black" "$bg_red" "$bg_green" "$bg_yellow" "$bg_blue" "$bg_magenta" "$bg_cyan" "$bg_white")
-fg_bright=("$fg_bright_black" "$fg_bright_red" "$fg_bright_green" "$fg_bright_yellow" "$fg_bright_blue" "$fg_bright_magenta" "$fg_bright_cyan" "$fg_bright_white")
-bg_bright=("$bg_bright_black" "$bg_bright_red" "$bg_bright_green" "$bg_bright_yellow" "$bg_bright_blue" "$bg_bright_magenta" "$bg_bright_cyan" "$bg_bright_white")
+names=(Red Green Blue Black Magenta Yellow Cyan White)
+fg_normal=("$fg_red" "$fg_green" "$fg_blue" "$fg_black" "$fg_magenta" "$fg_yellow" "$fg_cyan" "$fg_white")
+bg_normal=("$bg_red" "$bg_green" "$bg_blue" "$bg_black" "$bg_magenta" "$bg_yellow" "$bg_cyan" "$bg_white")
+fg_bright=("$fg_bright_red" "$fg_bright_green" "$fg_bright_blue" "$fg_bright_black" "$fg_bright_magenta" "$fg_bright_yellow" "$fg_bright_cyan" "$fg_bright_white")
+bg_bright=("$bg_bright_red" "$bg_bright_green" "$bg_bright_blue" "$bg_bright_black" "$bg_bright_magenta" "$bg_bright_yellow" "$bg_bright_cyan" "$bg_bright_white")
 greys=("$grey0" "$grey1" "$grey2" "$grey3" "$grey4" "$grey5")
 
 swatch_w=15
