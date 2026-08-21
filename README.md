@@ -2,6 +2,8 @@
 
 Modified version of `Elementary` from [Gogh](https://gogh-co.github.io/Gogh/#Elementary).
 
+![Dear Watson](_preview/preview.png)
+
 See [INSTALL_GUIDE.md](INSTALL_GUIDE.md) to install the colour scheme.
 
 The actual colour values are:
