@@ -87,6 +87,33 @@ Config file: [`ghostty/Dear Watson`](ghostty/Dear%20Watson)
 
 On macOS, named themes are looked up in `~/.config/ghostty/themes` even if the main config lives under Application Support. Use the absolute path if the named lookup does not find it.
 
+## cmux
+
+Config file: [`ghostty/Dear Watson`](ghostty/Dear%20Watson)
+
+[cmux](https://github.com/manaflow-ai/cmux) uses Ghostty's theme format and reads the same Ghostty config files.
+
+1. Copy the theme into Ghostty's themes folder:
+
+   ```bash
+   mkdir -p ~/.config/ghostty/themes
+   cp "/path/to/dear-watson/ghostty/Dear Watson" ~/.config/ghostty/themes/
+   ```
+
+2. Set the theme in your Ghostty config (`~/.config/ghostty/config`). You can open that file from **cmux → Ghostty Settings…**:
+
+   ```
+   theme = Dear Watson
+   ```
+
+   You can instead point at the file directly:
+
+   ```
+   theme = /path/to/dear-watson/ghostty/Dear Watson
+   ```
+
+3. Reload with **⌘⇧,** or **cmux → Reload Configuration**.
+
 ## Terminal (macOS)
 
 Config file: [`MacOS-Terminal/Dear Watson.terminal`](MacOS-Terminal/Dear%20Watson.terminal)
