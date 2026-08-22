@@ -1,6 +1,6 @@
 # Dear Watson - Terminal Colour Scheme
 
-Modified version of `Elementary` from [Gogh](https://gogh-co.github.io/Gogh/#Elementary).
+Modified version of `Elementary`, originally the default terminal palette of [elementary OS](https://elementary.io/).
 
 ![Dear Watson](_preview/preview.png)
 
